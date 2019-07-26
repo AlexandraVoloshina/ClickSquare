@@ -1,0 +1,19 @@
+/** {
+	margin: 0;
+	padding: 0;
+}*/
+
+#table-style td {
+  width: 150px;
+  height: 150px;
+  padding-top: 5px;
+  padding-bottom: 12px;
+}
+
+#table-style .td-color {
+  background: #00FF00;
+}
+
+#table-style .redlight {
+  background: #FF0000;
+}
