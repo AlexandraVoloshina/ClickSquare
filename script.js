@@ -6,9 +6,7 @@ function ClickSquare(){
     var target = event.target;
       if (target.tagName == 'TD') {
         setRedlight(target);
-        return;
       }
-    target = target.parentNode;
   }
 
   function setRedlight(node) {
